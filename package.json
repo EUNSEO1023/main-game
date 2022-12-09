@@ -1,0 +1,9 @@
+{
+    "name": "match-card-game",
+    "version": "0.0.1",
+    "description": "match card game app",
+    "dependencies": {
+        "express": "^4.18.2",
+        "socket.io": "^4.5.3"
+    }
+}
